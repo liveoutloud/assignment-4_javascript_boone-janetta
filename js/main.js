@@ -1,6 +1,6 @@
 /***** Primitive Types *****/
 
-// strings
+/*// strings
 var string1 = "I am a string";
 var string2 = 'I am another string';
 
@@ -26,7 +26,7 @@ var undefinedVar2; //undefined by default.  lines 24 and 25 are the exact same!
 
 /***** Complex Types or Object Types *****/
 // objects
-var myObject = {
+/*var myObject = {
   key: 'value' //the value can be any of the primitives
 }
 
@@ -36,4 +36,4 @@ var myArray = [1, 2, 3];
 //functions
 var myFunction = function() {
   console.log( 'I am a function!' );
-}
+}*/
